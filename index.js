@@ -26,7 +26,8 @@ else{
 
 
 /* 
-  Add your pseudocode here
+first need to know the word of lenght 1 
+secound need two conter i and j to go throught the word i from the begining of the word j from the end and comparing characher in the word 
 */
 
 /*
