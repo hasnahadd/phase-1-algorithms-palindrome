@@ -27,7 +27,7 @@ else{
 
 /* 
 first converts the word to lowercase to ensure case-insensitive comparison. 
- need to add the  condution of  out of loop word of lenght 1 
+ need to add the  condution of  if out of loop word of lenght 1 
 secound need a loop for each word and  two conter i and j to go throught the word i from the begining of the word j from the end and comparing characher in the word 
 */
 
