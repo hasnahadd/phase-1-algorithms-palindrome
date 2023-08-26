@@ -1,6 +1,29 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  wordLenght = word.length;
+ word =word.toLowerCase();
+ if(wordLenght === 1){
+  return true;
 }
+for(let i = 0, j = word.length - 1; i < j; i++, j--){
+
+if(word[i] == word[j]) {
+  return true;
+}
+else{
+
+  return false;
+}
+}
+
+}
+
+
+
+
+
+
+
 
 /* 
   Add your pseudocode here
